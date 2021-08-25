@@ -1,6 +1,6 @@
 ### Olá sou D.Boueri 👋
 
-- 🔭 Hoje trabalho na Secretaria de saúde
+- 🔭 Hoje trabalho na Secretaria de Saúde
 - 🤔 Cursando Analise Desenvolvimento de Sistemas
 - ⚡ Viva la vida
 <div>
