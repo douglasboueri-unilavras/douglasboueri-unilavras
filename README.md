@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho na Secretaria de Saúde
 - 🤔 Cursando Analise Desenvolvimento de Sistemas
-- ⚡ Viva la vida
+- 📍 MG
 <div>
   <a href="https://github.com/douglasboueri-unilavras">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasboueri-unilavras&show_icons=true&theme=winteriscoming&include_all_commits=true&count_private=true"/>
