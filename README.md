@@ -1,7 +1,6 @@
 ### Olá sou D.Boueri 👋
 
-- 🔭 Hoje trabalho na Secretaria de Saúde
-- 🤔 Cursando Analise Desenvolvimento de Sistemas
+- 🤔 Analista e Desenvolvedor de Sistemas
 - 📍 MG
 <div>
   <a href="https://github.com/douglasboueri-unilavras">
